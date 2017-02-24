@@ -1,0 +1,6 @@
+framework module ZWIdcardKeyboard {
+  umbrella header "ZWIdcardKeyboard-umbrella.h"
+
+  export *
+  module * { export * }
+}
